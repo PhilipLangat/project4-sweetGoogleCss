@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+   display: flex;
+   justify-content: center;
+   display: auto;
+    
+}
+.border{
+    color: black;
+}
+h1{
+    color: blue;
+}
+.img{
+    background-color: orange;
+}
